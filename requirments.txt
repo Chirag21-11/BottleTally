@@ -1,0 +1,10 @@
+opencv-python
+cvzone
+torch
+ultralytics
+filterpy
+torchvision
+numpy
+skiimage
+matplotlib
+lap
